@@ -1,0 +1,21 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        x:Class="AsteroidDestroyer.MainWindow"
+        Title="Asteroid destroyer"
+        Width="800"
+        Height="450"
+        Background="LightGray">
+
+    <Grid>
+
+        <Canvas x:Name="Canvas"
+                HorizontalAlignment="Stretch"
+                VerticalAlignment="Stretch"/>
+
+        <Button x:Name="StartButton"
+                Content="Start"
+                HorizontalAlignment="Center"
+                VerticalAlignment="Center"/>
+
+    </Grid>
+</Window>
