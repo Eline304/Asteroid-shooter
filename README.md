@@ -4,7 +4,7 @@ A 2D asteroid shooter developed using C# and Avalonia UI as a practice project f
 
 ## Demo
 
-![Demo](Assets/demo.gif)
+![Demo](AsteroidDestroyer/Assets/demo.gif)
 
 
 ## Features
