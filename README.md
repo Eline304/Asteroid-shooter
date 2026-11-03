@@ -1,4 +1,4 @@
-# SkyDiary
+# Asteroid Shooter
 
 A 2D asteroid shooter developed using C# and Avalonia UI as a practice project for a school assignment on Object-Oriented Programming.
 
