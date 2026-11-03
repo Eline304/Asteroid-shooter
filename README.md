@@ -25,7 +25,8 @@ A 2D asteroid shooter developed using C# and Avalonia UI as a practice project f
 
 ## Controls
 
-**Arrow keys**:	Move the spaceship
+**Arrow keys (up, down, left, right)**:	Move the spaceship
+
 **Spacebar**:	Shoot
 
 ## Project Structure
